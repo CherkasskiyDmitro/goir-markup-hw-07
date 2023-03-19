@@ -121,7 +121,7 @@ button{
   /* Моб. меню */
   .mobile-menu{
     position: fixed;
-    width: 100%;
+    width: 428px;
     height: 796px;
     top:0;
     left:0;
